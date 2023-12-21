@@ -1,5 +1,5 @@
 # WebDoctor
-Верстка простого сайта
+Верстка простого сайта по <a href="https://www.figma.com/file/4HxKAipeUl0XV4poXyxvnv/Effective-Web-Course?node-id=51%3A129&mode=dev">макету</a>.
 
 ## Versions
 + node js : v20.10.0 
