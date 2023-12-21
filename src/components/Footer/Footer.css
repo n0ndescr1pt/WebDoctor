@@ -1,0 +1,99 @@
+.footerContainer {
+    padding: 118px;
+    display: flex;
+    height: 432px;
+    background: linear-gradient(183deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+    justify-content: center;
+}
+
+
+.footerText {
+    color: #FFF;
+    font-family: Muli;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 28px;
+    padding-bottom: 31px;
+    /* 155.556% */
+}
+
+
+.footerSubText {
+    color: #FFF;
+    font-family: Muli;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 28px;
+    /* 175% */
+}
+
+.footerTitle {
+    color: #FFF;
+    font-family: Muli;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+
+    /* 300% */
+}
+
+.footerSubTitle {
+    color: #FFF;
+    font-family: Muli;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 38px;
+    /* 155.556% */
+}
+
+.width391px {
+    width: 391px;
+}
+
+.firstTab {
+    padding-right: 145px;
+}
+
+.secondTab {
+    padding-right: 177px;
+}
+
+
+.thirdTab {
+    padding-right: 166px;
+}
+
+
+
+
+
+
+
+
+.whiteColor{
+    color: #FFF;
+}
+
+.whiteBackground{
+    background-color: #FFF;
+}
+
+.blueColor{
+    color: #5B9BF3;
+}
+
+.paddingB22px{
+    padding-bottom: 22px;
+}
+
+.footerContainer a{
+    text-decoration: none;
+}
+.footerSubTitle:hover{
+    text-decoration: none;
+    color: #0400ff;
+}
