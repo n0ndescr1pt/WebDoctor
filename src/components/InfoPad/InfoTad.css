@@ -1,0 +1,119 @@
+@font-face {
+    font-family: Muli;
+    src: url(/src/fonts/Muli.ttf);
+    font-weight: normal;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+.innerInfoPadContainer{
+    
+    display: flex;
+    width: 1353px;
+    margin: 0 auto;
+    margin-top: 221px;
+    align-items: center;
+}
+
+.infoPadText{
+    padding-left:142px;
+}
+
+.infoPadTextRight{
+    padding-right:142px;
+    padding-left: 0px;
+    margin-left: 70px;
+}
+
+.infoPadHeader {
+    width: 481px;
+    color: #000;
+    font-family: Muli;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px;
+    /* 155.556% */
+}
+.infoPadHeaderRight {
+    width: 254px;
+    color: #000;
+    font-family: Muli;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px;
+    /* 155.556% */
+}
+
+.lineInfoPad {
+    width: 56px;
+    height: 2px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #000;
+    margin-top: 26px;
+    margin-bottom: 31px;
+}
+
+.infoPadTitle {
+    color: #7D7987;
+    font-family: Muli;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 30px;
+    
+    width: 480px;
+    height: 90px;
+}
+
+.infoPadTitleRight {
+    color: #7D7987;
+    font-family: Muli;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 30px;
+    
+    width: 420px;
+    height: 120px;
+}
+
+.downloadButton {
+    
+    margin-top: 40px;
+   
+    width: 200px;
+    height: 56px;
+    
+    border-radius: 55px;
+    border: 1.4px solid #458FF6;
+    background: #FFF;
+    
+   
+    color: #458FF6;
+    font-family: Muli;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.downloadButton:hover {
+    background-color: #458FF6;
+    border: 1.4px solid #FFF;
+    color: #FFF;
+}
+
+.vectorDown{
+    margin-left: 15px;
+}
+
+.vectorRight{
+    margin-left: 15px;
+    transform: rotate(-90deg);
+}
+
