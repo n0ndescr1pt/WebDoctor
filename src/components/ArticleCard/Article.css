@@ -1,0 +1,81 @@
+.articleCardContainer{
+    width: 1120px;
+    margin: 0 auto;
+    margin-top: 72px;
+    margin-bottom: 201px;
+    
+}
+
+.articleCardRow {
+    display: flex;
+}
+
+.articleTitle {
+    text-align: center;
+    color: #000;
+    font-family: Muli;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px;
+    /* 155.556% */
+}
+
+.articleCard {
+    margin-right: 35px;
+    width: 350px;
+    height: 512px;
+
+    background: #FFF;
+
+    box-shadow: 10px 40px 50px 0px rgba(229, 233, 246, 0.40);
+    border-radius: 20px;
+}
+
+.articleContent {
+    padding: 35px;
+    padding-top: 21px;
+}
+
+.articleIconCard img {
+    width: 350px;
+    height: 246px;
+    flex-shrink: 0;
+    border-radius: 20px 20px 0 0;
+}
+
+.articleTitleCard {
+    width: 255px;
+    color: #000;
+    font-family: Muli;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+    margin-bottom: 12px;
+    /* 152.381% */
+}
+
+.articleSubTitleCard {
+    width: 266px;
+    height: 84px;
+    color: #7D7987;
+    font-family: Muli;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 28px;
+    margin-bottom: 25px;
+    /* 175% */
+}
+
+.readMore {
+    width: 266px;
+    color: #4089ED;
+    font-family: Muli;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px;
+    /* 164.706% */
+}
